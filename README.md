@@ -75,8 +75,8 @@ Answers questions based on the simplified report context.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/B-Bharadwaj/Medical-Report-Simplifier.git
-   cd Medical-Report-Simplifier
+   git clone https://github.com/Yoogendra/medical-report-simplifier.git
+   cd medical-report-simplifier
    ```
 
 2. **Run the Initialization Script**
